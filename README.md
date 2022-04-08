@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**kingdeorayom/kingdeorayom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Serking** and I **hate** tedious, repetitive tasks. :smirk:
 
-Here are some ideas to get you started:
+For projects or freelance opportunities, contact me at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :iphone: Facebook: [Serking de Orayom](https://www.facebook.com/kingdeorayom)
+
+* :bird: Twitter: [@kingdeorayom](https://www.twitter.com/kingdeorayom)
+
+* :email: Email: kingdeorayom@gmail.com
+
+* :watch: LinkedIn: [Serking de Orayom](https://www.linkedin.com/in/serking-de-orayom-599927218/)

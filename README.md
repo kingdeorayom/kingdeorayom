@@ -1,10 +1,8 @@
-
 # Hi, there! 👋
 
 I'm a web and mobile developer focusing on front-end web technologies.
 
 I hate tedious, repetitive tasks. :smiley:
-
 
 ## 🚀 About Me
 
@@ -20,8 +18,8 @@ If time permits, I also hang out with my friends and family.
 ![HTML5](https://img.shields.io/badge/-HTML5-DC4D25?style=for-the-badge&logo=html5&logoColor=white "HTML5")
 ![CSS3](https://img.shields.io/badge/-CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white "CSS3")
 ![JavaScript ES6](https://img.shields.io/badge/-JavaScript_ES6-FCDC00?style=for-the-badge&logo=javascript&logoColor=black "JavaScript ES6")
-![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white "React JS")
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white "React Native")
+![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black "React JS")
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black "React Native")
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap 5")
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS")
 ![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white "PHP")
@@ -31,8 +29,8 @@ If time permits, I also hang out with my friends and family.
 
 **But I mainly use**
 
-![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white "React JS")
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white "React Native")
+![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black "React JS")
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black "React Native")
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap 5")
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS")
 ![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white "PHP")
@@ -45,8 +43,3 @@ If time permits, I also hang out with my friends and family.
 [![portfolio](https://img.shields.io/badge/Instagram-F60A5F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kingdeorayom)
 [![portfolio](https://img.shields.io/badge/Email-E34133?style=for-the-badge&logo=gmail&logoColor=white)](kingdeorayom@gmail.com)
 [![portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingdeorayom)
-
-## Authors
-
-- [@kingdeorayom](https://www.github.com/kingdeorayom)
-

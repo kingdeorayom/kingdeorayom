@@ -15,19 +15,19 @@ I spend most of my free time reading books, listening to music, playing video ga
 If time permits, I also hang out with my friends and family.
 ## 🛠 Skills
 
-**I know how to effectively use the following technologies**
+**I know when and how to effectively use the following technologies**
 
-![HTML5](https://img.shields.io/badge/-HTML5-DC4D25 "HTML5")
-![CSS3](https://img.shields.io/badge/-CSS3-264DE4 "CSS3")
-![JavaScript ES6](https://img.shields.io/badge/-JavaScript_ES6-FCDC00 "JavaScript ES6")
-![React JS](https://img.shields.io/badge/-React_JS-61DAFB "React JS")
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB "React Native")
-![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9 "Bootstrap 5")
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8 "Tailwind CSS")
-![PHP](https://img.shields.io/badge/-PHP-7A86B8 "PHP")
-![MySQL](https://img.shields.io/badge/-MySQL-3E6E93 "MySQL")
-![Git](https://img.shields.io/badge/-Git-F44D27 "Git")
-![GitHub](https://img.shields.io/badge/-GitHub-24292F "GitHub")
+![HTML5](https://img.shields.io/badge/-HTML5-DC4D25?style=for-the-badge&logo=html5&logoColor=white "HTML5")
+![CSS3](https://img.shields.io/badge/-CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white "CSS3")
+![JavaScript ES6](https://img.shields.io/badge/-JavaScript_ES6-FCDC00?style=for-the-badge&logo=javascript&logoColor=black "JavaScript ES6")
+![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white "React JS")
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white "React Native")
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap 5")
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS")
+![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white "PHP")
+![MySQL](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
+![Git](https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=git&logoColor=white "Git")
+![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white "GitHub")
 
 **But I mainly use**
 

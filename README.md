@@ -20,8 +20,8 @@ If time permits, I also hang out with my friends and family.
 ![HTML5](https://img.shields.io/badge/-HTML5-DC4D25?style=for-the-badge&logo=html5&logoColor=white "HTML5")
 ![CSS3](https://img.shields.io/badge/-CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white "CSS3")
 ![JavaScript ES6](https://img.shields.io/badge/-JavaScript_ES6-FCDC00?style=for-the-badge&logo=javascript&logoColor=black "JavaScript ES6")
-![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black "React JS")
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black "React Native")
+![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white "React JS")
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white "React Native")
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap 5")
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS")
 ![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white "PHP")
@@ -31,9 +31,12 @@ If time permits, I also hang out with my friends and family.
 
 **But I mainly use**
 
-- **Client:** React JS, Bootstrap, TailwindCSS, Material UI
+![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white "React JS")
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap 5")
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS")
 
-- **Server:** Apache, PHP, MySQL
+![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white "PHP")
+![MySQL](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
 
 ## 🔗 For projects or freelance opportunities, contact me at
 

@@ -17,17 +17,17 @@ If time permits, I also hang out with my friends and family.
 
 **I know how to effectively use the following technologies**
 
-- HTML5
-- CSS3
-- JavaScript ES6
-- React JS
-- React Native
-- Bootstrap
-- TailwindCSS
-- PHP
-- MySQL
-- Git
-- Github
+![HTML5](https://img.shields.io/badge/-HTML5-DC4D25 "HTML5")
+![CSS3](https://img.shields.io/badge/-CSS3-264DE4 "CSS3")
+![JavaScript ES6](https://img.shields.io/badge/-JavaScript_ES6-FCDC00 "JavaScript ES6")
+![React JS](https://img.shields.io/badge/-React_JS-61DAFB "React JS")
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB "React Native")
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9 "Bootstrap 5")
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8 "Tailwind CSS")
+![PHP](https://img.shields.io/badge/-PHP-7A86B8 "PHP")
+![MySQL](https://img.shields.io/badge/-MySQL-3E6E93 "MySQL")
+![Git](https://img.shields.io/badge/-Git-F44D27 "Git")
+![GitHub](https://img.shields.io/badge/-GitHub-24292F "GitHub")
 
 **But I mainly use**
 

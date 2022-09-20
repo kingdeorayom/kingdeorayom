@@ -19,7 +19,7 @@ If time permits, I also hang out with my friends and family.
 
 - HTML5
 - CSS3
-- JavaScriptES6
+- JavaScript ES6
 - React JS
 - React Native
 - Bootstrap

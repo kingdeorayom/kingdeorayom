@@ -34,8 +34,18 @@ If time permits, I also hang out with my friends and family.
 - **Client:** React JS, Bootstrap, TailwindCSS, Material UI
 
 - **Server:** Apache, PHP, MySQL
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kingdeorayom.tech/)
+
+## 🔗 For projects or freelance opportunities, contact me at
+
+[![portfolio](https://img.shields.io/badge/Facebook-1773ea?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.facebook.com/kingdeorayom)
+
+[![portfolio](https://img.shields.io/badge/Twitter-1C96E8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.twitter.com/kingdeorayom)
+
+[![portfolio](https://img.shields.io/badge/Instagram-F60A5F?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.instagram.com/kingdeorayom)
+
+[![portfolio](https://img.shields.io/badge/Email-E34133?style=for-the-badge&logo=ko-fi&logoColor=white)](kingdeorayom@gmail.com)
+
+[![portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/kingdeorayom)
 
 ## For projects or freelance opportunities, contact me at:
 

@@ -47,16 +47,6 @@ If time permits, I also hang out with my friends and family.
 
 [![portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingdeorayom)
 
-## For projects or freelance opportunities, contact me at:
-
-* :iphone: Facebook: [Serking de Orayom](https://www.facebook.com/kingdeorayom)
-
-* :bird: Twitter: [@kingdeorayom](https://www.twitter.com/kingdeorayom)
-
-* :email: Email: kingdeorayom@gmail.com
-
-* :watch: LinkedIn: [Serking de Orayom](https://www.linkedin.com/in/kingdeorayom)
-
 ## Authors
 
 - [@kingdeorayom](https://www.github.com/kingdeorayom)

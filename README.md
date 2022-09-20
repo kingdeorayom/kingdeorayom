@@ -31,10 +31,10 @@ If time permits, I also hang out with my friends and family.
 
 **But I mainly use**
 
-**Client** ![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white "React JS")
+![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white "React JS")
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white "React Native")
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap 5")
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS")
-
 ![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white "PHP")
 ![MySQL](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
 

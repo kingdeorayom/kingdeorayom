@@ -31,6 +31,8 @@ If time permits, I also hang out with my friends and family.
 
 **But I mainly use**
 
+**Client**
+
 ![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white "React JS")
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap 5")
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS")

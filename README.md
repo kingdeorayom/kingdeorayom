@@ -8,7 +8,7 @@ I hate tedious, repetitive tasks. :smiley:
 
 ## 🚀 About Me
 
-I earned my bachelor's degree in Information Technology at the University of Perpetual Help System Laguna with an academic honor of distinction: *Magna Cum Laude*.
+I earned my bachelor's degree in Information Technology at the University of Perpetual Help System Laguna with an academic honor of distinction: **_Magna Cum Laude_**.
 
 I spend most of my free time reading books, listening to music, playing video games or watching movies, TV series or anime.
 

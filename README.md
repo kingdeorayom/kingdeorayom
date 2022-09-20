@@ -1,7 +1,7 @@
 
 # Hi, there! 👋
 
-I'm a web and mobile software developer focusing on front-end web technologies.
+I'm a web and mobile developer focusing on front-end web technologies.
 
 I hate tedious, repetitive tasks. :smiley:
 

@@ -37,11 +37,6 @@ If time permits, I also hang out with my friends and family.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kingdeorayom.tech/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingdeorayom)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kingdeorayom)
-
-
 ## For projects or freelance opportunities, contact me at:
 
 * :iphone: Facebook: [Serking de Orayom](https://www.facebook.com/kingdeorayom)

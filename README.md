@@ -1,4 +1,4 @@
-# Hi, there! 👋
+# Hi there! 👋
 
 I'm a web and mobile developer focusing on front-end web technologies.
 

@@ -2,8 +2,6 @@
 
 I'm a software developer focusing on web technologies.
 
-I earned my bachelor's degree in Information Technology at the University of Perpetual Help System Laguna with an academic honor of distinction: **_Magna Cum Laude_**.
-
 I hate tedious, repetitive tasks. :smiley:
 
 ## 🛠 Skills

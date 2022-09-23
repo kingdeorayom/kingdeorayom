@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 ## 🚀 About Me
 
 I'm a software developer focusing on web technologies.

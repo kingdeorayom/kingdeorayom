@@ -8,9 +8,6 @@ I hate tedious, repetitive tasks. :smiley:
 
 I earned my bachelor's degree in Information Technology at the University of Perpetual Help System Laguna with an academic honor of distinction: **_Magna Cum Laude_**.
 
-I spend most of my free time reading books, listening to music, playing video games or watching movies, TV series or anime.
-
-If time permits, I also hang out with my friends and family.
 ## 🛠 Skills
 
 **I know when and how to effectively use the following technologies**

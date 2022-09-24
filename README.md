@@ -1,6 +1,6 @@
 ## 🚀 About
 
-I'm a software developer focusing on web technologies.
+I'm a software developer focusing on web and mobile technologies.
 
 I hate tedious, repetitive tasks. :smiley:
 

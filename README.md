@@ -1,4 +1,4 @@
-## 🚀 About Me
+## 🚀 About
 
 I'm a software developer focusing on web technologies.
 

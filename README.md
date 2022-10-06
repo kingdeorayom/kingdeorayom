@@ -16,6 +16,7 @@ I hate tedious, repetitive tasks. :smiley:
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-7633F9?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap 5")
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS")
 ![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white "PHP")
+![Laravel](https://img.shields.io/badge/-Laravel-7A86B8?style=for-the-badge&logo=php&logoColor=white "Laravel")
 ![MySQL](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white "GitHub")

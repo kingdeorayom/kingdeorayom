@@ -2,7 +2,7 @@
 
 I'm a software developer focusing on web and mobile applications.
 
-I hate tedious, repetitive tasks.
+I hate tedious, repetitive tasks. :smiley:
 
 ## 🛠 Skills
 

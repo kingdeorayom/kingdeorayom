@@ -1,4 +1,4 @@
-# Hey, I'm King 👋
+# Hey, I'm Serking 👋
 
 Currently working on a **FinEd Digital Banking platform**, where I build cross-platform mobile experiences with React Native, work with Next.js, integrate frontend and backend services, and occasionally spend an unreasonable amount of time figuring out why something only breaks in iOS.
 
@@ -29,8 +29,6 @@ I'm particularly interested in going beyond simply **writing code** and getting 
 * ⚖️ Engineering trade-offs
 * 🚀 Performance optimization
 * 📱 Cross-platform application development
-* 🔧 Legacy modernization
-* 🤝 Technical leadership
 
 ## Outside of work
 

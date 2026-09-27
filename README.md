@@ -37,7 +37,7 @@ I'm particularly interested in going beyond simply **writing code** and getting 
 When I'm not fighting TypeScript:
 
 * 🎮 Playing Pokémon, Zelda, The Witcher, GTA, and Stardew Valley
-* 📺 Watching anime
+* 📺 Watching anime or reading books
 * 🎵 Listening to old-school music and classic rock
 * 🧠 Going down random technical rabbit holes
 * 🛠️ Breaking things just to understand how they work
